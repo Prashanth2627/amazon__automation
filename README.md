@@ -1,0 +1,1 @@
+# amazon__automation
